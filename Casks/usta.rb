@@ -7,7 +7,7 @@ cask "usta" do
   desc "Your AI engineering team — native macOS multi-agent IDE"
   homepage "https://github.com/danialza/Usta"
 
-  depends_on macos: ">= :sequoia"
+  depends_on macos: :sequoia
 
   app "Usta.app"
 
