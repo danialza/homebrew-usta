@@ -1,6 +1,6 @@
 cask "usta" do
-  version "0.1.1"
-  sha256 "f99b61e03cd9e9988ac3e9f20ad6cc868127b828185240f3bb9445deef3186c9"
+  version "0.2.0"
+  sha256 "77707a8597d13cfcf0371e00c5a7d1c7f2931f0e31a9202cf11bedeb397ad084"
 
   url "https://github.com/danialza/Usta/releases/download/v#{version}/Usta-macOS-v#{version}.dmg"
   name "Usta"
